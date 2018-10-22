@@ -29,6 +29,12 @@ namespace interfaces
             Eid = Convert.ToInt32(Console.ReadLine());
             Ename = Console.ReadLine();
             ca = Convert.ToDouble(Console.ReadLine());
+
+
+
+
+
+
             bonus = Convert.ToDouble(Console.ReadLine());
 
         }

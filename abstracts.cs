@@ -12,7 +12,7 @@ namespace interfaces
     }
     public class rectangle1:abstracts
     {
-        public override  void draw1()
+        public override void draw1()
         {
             Console.WriteLine("draw rectangle");
         }

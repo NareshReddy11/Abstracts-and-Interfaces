@@ -1,0 +1,7 @@
+F:\c#.net\interfaces\interfaces\bin\x64\Debug\interfaces.exe.config
+F:\c#.net\interfaces\interfaces\bin\x64\Debug\interfaces.exe
+F:\c#.net\interfaces\interfaces\bin\x64\Debug\interfaces.pdb
+F:\c#.net\interfaces\interfaces\obj\x64\Debug\interfaces.csprojAssemblyReference.cache
+F:\c#.net\interfaces\interfaces\obj\x64\Debug\interfaces.csproj.CoreCompileInputs.cache
+F:\c#.net\interfaces\interfaces\obj\x64\Debug\interfaces.exe
+F:\c#.net\interfaces\interfaces\obj\x64\Debug\interfaces.pdb
